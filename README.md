@@ -37,4 +37,7 @@
 
 ---
 ## If you have time check this out:
-[![Visit POM Wonderful!](https://www.pomwonderful.com/content/images/pom-logo.png)](https://www.pomwonderful.com/)
+[Visit POM Wonderful!](https://www.pomwonderful.com/)
+<img width="150" height="350" alt="62b0f036229d5835556cdab0_PJ_2020_16oz_US_Hero_V3_rgb - Juice Ounces Bottom" src="https://github.com/user-attachments/assets/c9bfab3d-6984-4a3d-b65f-52a1d3f8a10a" />
+
+
