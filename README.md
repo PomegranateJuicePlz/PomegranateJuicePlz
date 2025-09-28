@@ -25,7 +25,7 @@
 
 ## 💬 Get In Touch
 - **Email:** pomegranitejuice.plz@gmail.com
-
+- **Mastadon:** [![Mastodon](https://upload.wikimedia.org/wikipedia/commons/4/4f/Mastodon_Logotype_%28Simple%29.svg)](https://mastodon.social/@BaconEnjoyer)
 
 ---
 
